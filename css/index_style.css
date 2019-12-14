@@ -1,0 +1,233 @@
+.contry{
+    padding: 0 5px;
+    padding-bottom: 3px;
+    background: 0 0;
+    font-size: 13px;
+    font-weight: 500;
+    display: inline-block;
+    margin-bottom: 0;
+    text-align: center;
+    vertical-align: middle;
+    touch-action: manipulation;
+    cursor: pointer;
+    border: 1px solid transparent;
+    white-space: nowrap;
+}
+.contry span  {
+
+    color: #fff;
+    font-family: TheSans;
+
+margin: 5;
+}
+
+.endm:hover {
+    color: black !important; 
+
+    background-color: #fff;
+}
+
+.btn11 {
+   
+    background-color: #ef0f0f!important;
+width: 20%;
+}
+.navsearch{
+    margin-bottom: 10%;
+}
+.searchdoc::placeholder {
+    color:cornflowerblue;
+    font-family: monospace;
+    
+  font-size: 20px;
+  }
+  
+  .mntka{
+      color: cornflowerblue;
+  }
+
+  .divtarik{
+      margin-bottom: 40%;
+      margin-left: 40%;
+      color: gray;
+  }
+  .divtarik h2 {
+      font-size: x-large;
+  }
+
+
+  .dash{
+      margin: auto;
+      width: 30px;
+      height: 4px;
+  }
+  
+
+  .dropdown{
+      
+  }
+
+
+.faq-container{
+    background-color: #fff;
+    font-weight: 400;
+    font-style: normal;
+    font-family: TheSans;
+    border-radius: 0!important;
+
+}
+.faq-container .sub-container{
+    padding: 50px 0;
+
+}
+.faq-container .main-div{
+    border: 1px solid #e2e6ea;
+    border-radius: 10px!important;
+    padding: 50px 25px 25px;
+    position: relative;
+    font-weight: 400;
+    font-style: normal;
+    font-family: TheSans;
+}
+.faq-container .info-div{
+
+    position: absolute;
+    background-color: #0070cd;
+    border-radius: 20px!important;
+    padding: 10px 20px;
+    top: -17px;
+    right: 35px;
+    color: #fff;
+    width: 150px;
+    font-family: icomoon;
+    speak: none;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+}
+.faq-container .icon-question-mark:before{
+    float: right;
+    margin-left: 10px;
+}
+.icon-question-mark:before{
+    content: "\ea09";
+
+}
+.faq-container .info-div span{
+    font-size: 16px;
+
+
+}
+.faq-container .info-div{
+    position: absolute;
+    background-color: #0070cd;
+    border-radius: 20px!important;
+    padding: 10px 20px;
+    top: -17px;
+    right: 35px;
+    color: #fff;
+    width: 150px;
+}
+[class*=" icon-"], [class^=icon-]{
+
+    font-family: icomoon;
+    speak: none;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    border-radius: 0!important;
+
+}
+.faq-container .icon-chevron-thin-down:before {
+    float: left;
+    font-size: 20px;
+    margin-top: 6px;
+    margin-left: 10px;
+}
+.faq-container .accordion {
+    background-color: #fcfcfc;
+    color: #808184;
+    border-radius: 20px!important;
+    padding: 8px 15px;
+    font-size: 16px;
+    font-weight: 700;
+    margin: 5px 0!important;
+}
+.faq-container .content-div {
+    padding: 0 15px;
+    max-height: 0;
+    overflow: hidden;
+    transition: .4s;
+}
+[class*=" icon-"], [class^=icon-] {
+    font-family: icomoon;
+    speak: none;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;}
+
+    .faq-container .icon-chevron-thin-down:before {
+        float: left;
+        font-size: 20px;
+        margin-top: 6px;
+        margin-left: 10px;
+    }
+    .faq-container .accordion {
+        background-color: #fcfcfc;
+        color: #808184;
+        border-radius: 20px!important;
+        padding: 8px 15px;
+        font-size: 16px;
+        font-weight: 700;
+        margin: 5px 0!important;
+    }
+    .faq-container .content-div {
+        padding: 0 15px;
+        max-height: 0;
+        overflow: hidden;
+        transition: .4s;
+    }
+    .pv1{
+        color: #8b8b8b;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    line-height: 20px;
+    
+    }
+    .visitaheeder{
+        margin-top: 100px !important;
+    }
+    
+    @media only screen and (max-width: 600px) {
+    .divtarik h2{
+font-size: 0;
+    }
+    .divtarik h5{
+        font-size: 0;
+
+    }
+    .fa-phone{
+color: transparent !important;
+    }
+        .slider1{
+            padding-bottom: 700px !important;
+            position: relative;
+        }
+        .newvs {
+
+
+            position: absolute;
+top: -500px;;
+
+        }
+      }
